@@ -9,4 +9,4 @@
 - `git commit`: open up editor for you to write a message and create commit
       - `git commit -m MESSAGE`: write commit message without editor 
 - `git diff`: show difference
-- `git pull origin master': brings code down from the remote to your local computer
+- `git pull origin master`: brings code down from the remote to your local computer
